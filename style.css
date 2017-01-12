@@ -3,6 +3,7 @@
       background: url("images/banner.jpg");
       background-size: cover;
       color: white;
+      height:450px;
     }
     .nav {
       color: white;
