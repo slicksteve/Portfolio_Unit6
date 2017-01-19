@@ -1,9 +1,9 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
+      background: url("images/nyc.jpg");
       color: white;
-      height:450px;
+      
+      background-size:cover;
     }
     .nav {
       color: white;
@@ -13,8 +13,10 @@
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      border: 1px solid white;
+      border-radius: 360px;
+      width:300px;
+      
     }
     ul {
       padding: 10px;
@@ -37,5 +39,9 @@
       li {
         padding: 5px;
         display: block;
+      }
+      #profile{
+        width:10px;
+        
       }
     }
